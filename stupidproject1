@@ -1,0 +1,17 @@
+var firstName = "Taylor";
+var age = 31;
+
+if (age < 13) {
+    console.log(firstName + " is a little shit.");
+    
+} else if (age >= 13 && age < 20) {
+    console.log(firstName + " is even more of a little shit.");
+}   else if (age >= 20 && age < 30) {
+    console.log(firstName + ' is becoming less of a little shit.');
+    } else if (age >= 30 && age <= 99) { 
+    console.log(firstName + " is a full grown shit.");
+}   else if (age = 69) { 
+    console.log(firstName + " is a fucking baller.");
+    } else (age > 100) {
+        console.log(firstName + " is a real fucking old fart.");
+    }
